@@ -31,7 +31,7 @@ This repository contains the complete project report, circuit simulation, and ha
    $$V_{out} = V_{in} \times \frac{R_{LDR}}{R + R_{LDR}}$$[cite: 2]
 
 2. **DC Motor Speed Relation:**
-   $$N = \frac{V - I_a R_a}{K \Phi}$$[cite: 2]
+   $$N = \frac{V - I_a R_a}{K \Phi}$$
 
 ---
 
