@@ -1,17 +1,17 @@
 # Line Following Robot Without Microcontroller
 
 ## Overview
-This repository contains the complete project report, circuit simulation, and hardware implementation details for an autonomous **Line Following Robot built without any microcontroller**. The decision-making is powered entirely by analog electronic circuits using IR sensors, operational amplifier comparators, and motor driver ICs[cite: 2].
+This repository contains the complete project report, circuit simulation, and hardware implementation details for an autonomous **Line Following Robot built without any microcontroller**. The decision-making is powered entirely by analog electronic circuits using IR sensors, operational amplifier comparators, and motor driver ICs.
 
 ---
 
 ## 🛠 Hardware & Components
-- **IR Proximity Sensors** (Infrared Detection)[cite: 2]
-- **LM358 IC** (Operational Amplifier / Comparator)[cite: 2]
-- **L293D IC** (Dual H-Bridge Motor Driver)[cite: 2]
-- **7805 Voltage Regulator**[cite: 2]
-- **BO Motors & Wheels**[cite: 2]
-- **9V Battery Power Supply**[cite: 2]
+- **IR Proximity Sensors** (Infrared Detection)
+- **LM358 IC** (Operational Amplifier / Comparator)
+- **L293D IC** (Dual H-Bridge Motor Driver)
+- **7805 Voltage Regulator
+- **BO Motors & Wheels
+- **9V Battery Power Supply
 
 ---
 
@@ -38,4 +38,4 @@ This repository contains the complete project report, circuit simulation, and ha
 ## 🚀 Key Highlights & Future Improvements
 - **Zero Software Dependency:** Pure hardware automation[cite: 2].
 - **Cost Effective & Simple:** Ideal baseline architecture for learning basic robotics[cite: 2].
-- **Future Enhancements:** Integration of PWM speed control, Arduino/microcontroller intelligence, and ultrasonic obstacle avoidance[cite: 2].
+- **Future Enhancements:** Integration of PWM speed control, Arduino/microcontroller intelligence, and ultrasonic obstacle avoidance.
